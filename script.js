@@ -37,7 +37,29 @@ const quizData =
         c:'2018',
         d:'none of the above',
         correct: 'd'
-    },
+    },{
+        question: ' Which among the following is the shortcut key for Help in your computer system?',
+        a:'F1',
+        b:'F2',
+        c:'f3',
+        d:'Ctrl + F',
+        correct: 'a'
+    },{
+        question: 'Byte is the series of ……………… bits.',
+        a:'2',
+        b:'5',
+        c:'8',
+        d:'12',
+        correct: 'c'
+    },{
+        question: 'n a network system, which among the following is the most powerful computer?',
+        a:'Laptop',
+        b:'Desktop',
+        c:'Server',
+        d:'Notebook',
+        correct: 'c'
+    }
+
     
 
 ];
