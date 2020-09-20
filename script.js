@@ -1,65 +1,6 @@
 const quizData = 
 [
-    {
-        question: '1 Terabyte (Tb) =',
-        a:'1,024 Gb',
-        b:'1,000 Gb',
-        c:'1,200 Gb',
-        d:'1220 Gb',
-        correct:'a'
-    },
-    {
-        question: 'Which is the best Programming language?',
-        a:'Java',
-        b:'Python',
-        c:'C',
-        d:'Javascript',
-        correct:'c'
-    },
-    {
-        question: 'If you restart your computer by selecting the restart button, it is known as …',
-        a:'Softboot',
-        b:'Cold boot',
-        c:'Warm boot',
-        d:'A and C',
-        correct:'d'
-    }, {
-        question: 'What does HTML stant for?',
-        a:'Hypertext Markup Language',
-        b:'Cascading stylesheet',
-        c:'Jason Object Notation',
-        d:'Object Oriented Programming',
-        correct:'a'
-    },{
-        question: 'When was the javascript launched?',
-        a:'2020',
-        b:'2019',
-        c:'2018',
-        d:'none of the above',
-        correct: 'd'
-    },{
-        question: ' Which among the following is the shortcut key for Help in your computer system?',
-        a:'F1',
-        b:'F2',
-        c:'f3',
-        d:'Ctrl + F',
-        correct: 'a'
-    },{
-        question: 'Byte is the series of ……………… bits.',
-        a:'2',
-        b:'5',
-        c:'8',
-        d:'12',
-        correct: 'c'
-    },{
-        question: 'n a network system, which among the following is the most powerful computer?',
-        a:'Laptop',
-        b:'Desktop',
-        c:'Server',
-        d:'Notebook',
-        correct: 'c'
-    }
-
+    
     
 
 ];
